@@ -65,8 +65,8 @@ This project follows the CRISP-DM framework to ensure a structured approach:
    - Linear Regression
    - Decision Tree Regressor
    - Random Forest Regressor
-4. **Model Evaluation**: Evaluate models based on metrics like Mean Absolute Error, Mean Squared Error, and R-squared to select the best model.
-5. **Model Deployment & Monitoring**: Although this step is a placeholder, in a production environment, we could use platforms like AWS Sagemaker or Azure ML for deployment and monitoring.
+4. **Quality Assurance for Machine Learning Applications - Model Evaluation**: Evaluate models based on metrics like Mean Absolute Error, Mean Squared Error, and R-squared to select the best model.
+5. **Model Deployment, Monitoring & Maintenance**: Although this step is a placeholder, in a production environment, we could use platforms like AWS Sagemaker or Azure ML for deployment and monitoring.
 
 ## Installation
 
